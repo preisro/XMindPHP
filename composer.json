@@ -3,11 +3,17 @@
     "description": "XMind file format reader",
     "keywords": ["xmind php mindmap"],
     "license": "BSD-3-Clause",
+    "version": "0.1.x-dev"
     "authors": [
         {
             "name": "Vladimir Chub",
             "email": "v@chub.com.ua",
             "homepage": "https://github.com/ChubV"
+        }
+        {
+            "name": "Robert Preis",
+            "email": "preisro@gmail.com",
+            "homepage": "https://github.com/preisro"
         }
     ],
     "require": {
